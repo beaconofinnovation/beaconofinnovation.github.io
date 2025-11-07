@@ -1,4 +1,5 @@
-# beaconofinn<!DOCTYPE html>
+# beaconofinnovation.github.io
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -257,7 +258,3 @@ if (event.target === contactModal) contactModal.style.display = "none";
 
 </body>
 </html>
-
-
-
-ovation.github.io
